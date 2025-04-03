@@ -20,9 +20,7 @@ Prerequisites:
 
 Installation:
 1. Clone the repository:
-   git clone https://github.com/yourusername/student-dropout-prediction.git
-   cd student-dropout-prediction
-
+   https://github.com/kuir-juach/MLOP_pipeline_summatives/tree/main
 2. Create and activate virtual environment:
    python -m venv venv
    # Linux/MacOS:
