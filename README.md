@@ -6,7 +6,7 @@ STUDENT DROPOUT PREDICTION
 
 
 ![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205721.png) ![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205740.png) 
-![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20212839.png)
+![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20212839.png) ![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-05%20005803.png)
 
 ## OVERVIEW
 This project presents a Machine Learning API built with FastAPI that predicts the likelihood of a student dropping out based on a range of academic performance metrics and demographic factors. By leveraging predictive analytics, the system aims to empower educational institutions with actionable insights, enabling early identification of at-risk students and facilitating timely, targeted interventions.
