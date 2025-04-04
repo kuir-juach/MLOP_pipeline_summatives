@@ -90,7 +90,7 @@ LINK TO DEMO VIDEO
 https://youtu.be/eCl704RgdEw?si=LF4FLn4Q5yZIOB3C
 
 APK file
-https://drive.google.com/drive/folders/1G8LqicRV9CHUQInM3WKXyd8GaJrzP8rR?usp=drive_link
+https://drive.google.com/drive/folders/1G8LqicRV9CHUQInM3WKXyd8GaJrzP8rR?usp=sharing
 
 
 # dropout_predictor
