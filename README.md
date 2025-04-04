@@ -76,6 +76,8 @@ MODEL_PATH=app/saved_models/nn_model.h5
 DEBUG=True
 
 LINK TO DEMO VIDEO
+https://youtu.be/eCl704RgdEw?si=LF4FLn4Q5yZIOB3C
+
 
 # dropout_predictor
 
