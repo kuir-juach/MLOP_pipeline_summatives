@@ -1,5 +1,7 @@
 STUDENT DROPOUT PREDICTION
-![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205740.png) ![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20212839.png)
+
+
+![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20212839.png)
 
 A machine learning API built with FastAPI that predicts student dropout risk based on academic and demographic factors. This system helps educational institutions identify at-risk students early for timely intervention.
 
@@ -99,4 +101,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205721.png)
+![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205721.png) ![image alt](https://github.com/kuir-juach/MLOP_pipeline_summatives/blob/main/Screenshot%202025-04-04%20205740.png) 
