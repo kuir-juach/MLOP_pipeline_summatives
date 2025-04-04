@@ -149,10 +149,6 @@ class _RetrainScreenState extends State<RetrainScreen> {
       });
     }
 
-    setState(() {
-      _isTraining = false;
-      _trainingResult =
-          'Model retrained successfully!\nAccuracy improved to 92.3%';
     });
   }
 }
