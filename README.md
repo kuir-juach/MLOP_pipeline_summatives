@@ -1,4 +1,4 @@
-STUDENT DROPOUT PREDICTION
+## STUDENT DROPOUT PREDICTION
 
 
 
@@ -92,6 +92,23 @@ https://youtu.be/eCl704RgdEw?si=LF4FLn4Q5yZIOB3C
 APK file
 https://drive.google.com/drive/folders/1G8LqicRV9CHUQInM3WKXyd8GaJrzP8rR?usp=sharing
 
+## How to Install Dropout Predictor (APK Guide) 
+
+1. **Download the APK**  
+   - Tap the download link I provided (e.g., from Google Drive, a direct server, or a hosting site).  
+
+2. **Allow Unknown Sources** *(For Android Only)*  
+   - Go to **Settings** → **Security** (or **Apps & Notifications**).  
+   - Enable **"Install Unknown Apps"** for your browser or file manager.  
+
+3. **Install the APK**  
+   - Open your **Downloads** folder and tap the APK file.  
+   - Select **"Install"** and wait for the process to finish.  
+
+4. **Open the App**  
+   - Once installed, launch it from your home screen!  
+
+⚠️ **Note:** Since this APK isn’t from the Play Store, your device may show a security warning—this is normal for direct installs.  
 
 # dropout_predictor
 
